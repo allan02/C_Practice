@@ -260,7 +260,7 @@ void do_save_exam_result(FILE * fp) {
 
 
 
-//p28 readºÎºÐ
+//p28 readë¶€ë¶„
 /*
 #include <stdio.h>
 
@@ -392,8 +392,8 @@ int main(void) {
 
 
 
-//ÄÄÆÄÀÏ·¯±îÁö °¡Áö ¾ÊÀ¸¹Ç·Î,, 2+3À» stringÀ¸·Î ÀÎ½Ä..  2+3*2+3 À¸·Î ÀÎ½ÄÇÏ¿© 11·Î Ãâ·Â
-// "square.h" ""Ç¥½Ã´Â ÇöÀç °°Àº µð·ºÅä¸®¿¡¼­ °¡Á®¿Í¶ó <>Ç¥½Ã´Â À©µµ¿ì µð·ºÅä¸®¿¡¼­ °¡Á®¿Í¶ó!
+//ì»´íŒŒì¼ëŸ¬ê¹Œì§€ ê°€ì§€ ì•Šìœ¼ë¯€ë¡œ,, 2+3ì„ stringìœ¼ë¡œ ì¸ì‹..  2+3*2+3 ìœ¼ë¡œ ì¸ì‹í•˜ì—¬ 11ë¡œ ì¶œë ¥
+// "square.h" ""í‘œì‹œëŠ” í˜„ìž¬ ê°™ì€ ë””ë ‰í† ë¦¬ì—ì„œ ê°€ì ¸ì™€ë¼ <>í‘œì‹œëŠ” ìœˆë„ìš° ë””ë ‰í† ë¦¬ì—ì„œ ê°€ì ¸ì™€ë¼!
 /*#include<stdio.h>
 #define SQUARE(x) (x*x)
 
